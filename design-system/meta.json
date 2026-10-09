@@ -25,7 +25,8 @@
   ],
   "component_usage": {
     "btn-primary": "Primary call-to-action. Max one per section. Use `data-variant=\\\"large\\\"` for hero and footer CTAs. Use default size for nav and inline CTAs. Always pair with a flow target. Never use for secondary actions — use btn-ghost instead.",
-    "btn-ghost": "Secondary or tertiary action button. Used in nav for 'Sign in'. Transparent background with border. Use when the action is present but shouldn't compete with the primary CTA."
+    "btn-ghost": "Secondary or tertiary action button. Used in nav for 'Sign in'. Transparent background with border. Use when the action is present but shouldn't compete with the primary CTA.",
+    "feature-card": "Feature highlight card used on the marketing home page features grid. Slots: icon (emoji), title (short feature name), description (1-2 sentences). Always used in a 3-column grid. Not used inside the app shell."
   },
   "pattern_usage": {}
 }
