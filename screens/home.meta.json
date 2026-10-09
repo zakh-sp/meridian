@@ -1,0 +1,8 @@
+{
+  "notes": "Marketing landing page. Desktop only (1440px). Sections: Nav → Hero (with dashboard preview) → Features grid (5 cards + coming-soon) → Comparison table → Footer CTA → Footer. Hero CTA flows to dashboard. Footer CTA flows to signup. Full-page height ~2800px. No auth state — this is the pre-login public page.",
+  "tags": [
+    "marketing",
+    "public",
+    "desktop"
+  ]
+}
