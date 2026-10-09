@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "from": "home.hero-cta-primary",
+    "event": "tap",
+    "to": "dashboard",
+    "to_kind": "screen"
+  },
+  {
+    "from": "home.cta-btn",
+    "event": "tap",
+    "to": "signup",
+    "to_kind": "screen"
+  }
+]
