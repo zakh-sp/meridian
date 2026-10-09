@@ -1,0 +1,28 @@
+{
+  "idea": "Meridian — premium dark travel planning app. Deep navy palette (#070B14 base) with blue primary (#3B82F6) and indigo accent (#6366F1). Meant to feel premium and focused, not loud. Smooth, thoughtful, lots of breathing room.",
+  "decisions": [
+    {
+      "id": "ds-001",
+      "date": "2026-10-09",
+      "title": "Dark-only theme for V1",
+      "body": "Building dark mode only for the initial design. The README calls for dark and light, but starting with dark to nail the premium feel first. Light mode can be added via a separate token file later.",
+      "status": "active"
+    },
+    {
+      "id": "ds-002",
+      "date": "2026-10-09",
+      "title": "Desktop-first home page (1440px)",
+      "body": "The home page is a marketing landing page targeted at desktop browsers. Internal app screens will be mobile-first at 390px. This screen is viewport_w=1440.",
+      "status": "active"
+    },
+    {
+      "id": "ds-003",
+      "date": "2026-10-09",
+      "title": "Inter / system-ui font stack",
+      "body": "Using system-ui / Inter for text — no web font load overhead, instant render. Consistent with the 'speed over features' principle from the README.",
+      "status": "active"
+    }
+  ],
+  "component_usage": {},
+  "pattern_usage": {}
+}
