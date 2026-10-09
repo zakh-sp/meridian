@@ -23,6 +23,8 @@
       "status": "active"
     }
   ],
-  "component_usage": {},
+  "component_usage": {
+    "btn-primary": "Primary call-to-action. Max one per section. Use `data-variant=\\\"large\\\"` for hero and footer CTAs. Use default size for nav and inline CTAs. Always pair with a flow target. Never use for secondary actions — use btn-ghost instead."
+  },
   "pattern_usage": {}
 }
