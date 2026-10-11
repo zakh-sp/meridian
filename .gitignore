@@ -1,2 +1,6 @@
 # derived cache, rebuildable from source
 .artisign/
+.neon
+.env.local
+node_modules/
+.env.staging.local
