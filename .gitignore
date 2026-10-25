@@ -1,4 +1,5 @@
 .envrc
+.idea/
 
 # derived cache, rebuildable from source
 .artisign/
